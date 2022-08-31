@@ -12,7 +12,7 @@ Fullstack developer , android , desktop apps
 ![](https://github-profile-trophy.vercel.app/?username=pouyaafraz123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💻 Most Used Language
-[![Top Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=pouyaafraz123&theme=radical&count_private=true&&count=10)](https://github.com/pouyaafraz123/github-readme-stats)
+[![Top Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=pouyaafraz123&theme=radical&count_private=true&count=10)](https://github.com/pouyaafraz123/github-readme-stats)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
